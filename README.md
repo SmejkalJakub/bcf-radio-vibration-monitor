@@ -2,7 +2,7 @@
 
 # Firmware for detecting vibrations on your devices
 
-[![Travis](https://img.shields.io/travis/bigclownprojects/bcf-radio-vibration-monitor/master.svg)](https://travis-ci.org/bigclownprojects/bcf-radio-vibration-monitor)
+[![build](https://github.com/hardwario/twr-radio-vibration-monitor/actions/workflows/main.yml/badge.svg)](https://github.com/hardwario/twr-radio-vibration-monitor/actions/workflows/main.yml)
 [![Release](https://img.shields.io/github/release/bigclownprojects/bcf-radio-vibration-monitor.svg)](https://github.com/bigclownprojects/bcf-radio-vibration-monitor/releases)
 [![License](https://img.shields.io/github/license/bigclownprojects/bcf-radio-vibration-monitor.svg)](https://github.com/bigclownprojects/bcf-radio-vibration-monitor/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
